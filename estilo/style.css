@@ -26,8 +26,8 @@
     --cor8: #30D5C8;
 }
 body {
-    background: url("../imagem/day-trade-destaque-jpg.webp") fixed no-repeat center/cover;
-    background-color: #f0f0f0; /* Cor de fallback */
+    
+    background-color:darkgray ; /* Cor de fallback */
     min-height: 100vh;
     }
     nav {
@@ -51,7 +51,7 @@ nav p {
 nav a {
     display: inline-block;
     background-color: rgba(48, 199, 111, 0.98);
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 0rem;
     border-radius: 10px;
     box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.3);
     color: var(--white);
